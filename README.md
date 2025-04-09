@@ -12,7 +12,6 @@
 - 🎓 Pursuing **M.Sc. Computer Science with Data Analytics** (2024–2026)
 - 🏫 Graduate in **B.C.A.** from PSG College of Arts and Science (2021–2024)
 - 💻 Exploring **Full Stack Development**, **Machine Learning**, and **AI**
-- 🌱 Currently sharpening my skills in real-world project building
 - 📬 Reach me at: **[dhanyafab@gmail.com](mailto:dhanyafab@gmail.com)**  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dhanya3010)
 
@@ -53,22 +52,41 @@
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=dhanyakrravi30&theme=github-compact" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhanyakrravi30&theme=tokyonight" />
-</p>
+---
+
+### 🏅 Achievements & Awards
+
+- 🥇 **First Prize** – Hackathon, HACK-FORGE, Sri Shakthi Institute of Engineering and Technology (Mar 21, 2025)  
+- 🥇 **First Prize** – Paper Presentation, CLUSTERS 2K25, Hindusthan College of Arts and Science (Mar 8, 2025)  
+- 🥇 **First Prize** – Paper Presentation, XIANZE'25, KG College of Arts and Science (Feb 22, 2025)  
+- 🥇 **First Prize** – Digital Dynamo 2K25, Shree Venkateshwara Arts and Science College (Jan 29, 2025)  
+- 🏆 **Best Paper Award** – ICCICT, Dr. N.G.P. Arts and Science College (Jan 3, 2025)  
+- 🥈 **Second Prize** – Paper Presentation, Bishop Ambrose College (Aug 28, 2024)
 
 ---
 
-### 🏆 GitHub Trophies
+### 🎓 Activities
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhanyakrravi30&theme=monokai&no-frame=true&margin-w=10" />
-</p>
+- 👩‍💻 Participated in **Tech Masters'25 Hackathon**, Sree Saraswathi Thyagaraja College (Mar 26, 2025)  
+- 💡 Participated in **Gateway’25 Hackathon**, PSG College of Arts and Science (Mar 12, 2025)  
+- 🏅 Earned **HackerRank Golden Badges** in **Java** and **SQL**  
+- 📑 Presented at **Paper Presentation**, Kongu Engineering College (Feb 15, 2025)  
+- 📘 Research paper: *Machine Learning Meets Cyberbullying*, NCRTAS-2024, BIT (Dec 18, 2024)  
+- 🧠 Attended **LeSuccess - AI Revolution** workshop (Nov 24, 2024)  
+- 🧑‍🏫 Conducted **Student Development Program** on *Crime Detection using Sentiment Analysis*, Dr. N.G.P. College (Sep 30, 2024)
 
 ---
 
-### 📊 Profile Views
+### 📝 Publications
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhanyakrravi30&label=Profile+Views&color=0e75b6&style=flat" alt="dhanyakrravi30" />
-</p>
+- 📄 **AI-Powered Data Interaction**  
+  *Journal of Information Technology and Digital World*  
+  Vol. 7, Issue 1, Mar 2025 — Published Mar 18, 2025
+
+- 📄 **AI-Driven RAG Chatbot**  
+  *Journal of IoT in Social, Mobile, Analytics, and Cloud*  
+  Vol. 6, Issue 4, Dec 2024 — Published Feb 6, 2025
+
+- 📄 **Cyberbullying Detection using Machine Learning Models**  
+  *Journal of Information Technology and Digital World*  
+  Vol. 6, Issue 4, Dec 2024 — Published Jan 31, 2025
