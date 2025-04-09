@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### 👋 Hi there, I'm Ravi
+
+![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanyakrravi30&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanyakrravi30&layout=compact&theme=radical)
+
+[![Ravi's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=dhanyakrravi30&theme=dracula)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
